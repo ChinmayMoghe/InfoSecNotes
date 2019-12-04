@@ -19,7 +19,7 @@ Did I not mention Internet censorship ? , well here is a link of blocked sites.
 
 See for yourself and decide.
 
-[Blocked websites list in China](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China){:target="_blank"}  
+[Blocked websites list in China](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China)
 
 
 How to be anonymous ?
@@ -31,7 +31,7 @@ telemetry services that are tracking your usage continuously.You can always open
 
 You can also check how easy it is to track you by visiting following
 link:		
-[BrowserLeaks.com](https://browserleaks.com/ip){:target="_blank"}
+[BrowserLeaks.com](https://browserleaks.com/ip)
 
 Use TOR with proxychains
 --
@@ -49,17 +49,17 @@ Use TOR with proxychains
  4. **Using proxychains**:  
  		  1. To use proxychains with browser , just type `proxychains firefox`  
     	2.   **`IMPORTANT`** **Make sure you close all the browser windows absolutely before executing above command**. You can also check your IP before and after connecting to prexychains which should be different.  
-    	[BrowserLeaks.com](https://browserleaks.com/ip){:target="_blank"}  
+    	[BrowserLeaks.com](https://browserleaks.com/ip)  
 
 Use OpenVPN (free)
 --
 1. **Install openvpn :**  
 `sudo apt-get install openvpn`
-2. Visit [vpnbook.com](https://www.vpnbook.com/howto/setup-openvpn-on-ubuntu){:target="_blank"} and follow the tutorial steps.
+2. Visit [vpnbook.com](https://www.vpnbook.com/howto/setup-openvpn-on-ubuntu) and follow the tutorial steps.
 3. **To connect to internet using openvpn:**  
 `openvpn --config <enter the config filename ending with .ovpn>`
 4. type in the username and password  and you are good to go...
-5. Checkout [vpnbook.com](https://www.vpnbook.com/howto/setup-openvpn-on-ubuntu){:target="_blank"} from time to time in any updates of password and username, as this is done for avoiding misuse by the maintainers.
+5. Checkout [vpnbook.com](https://www.vpnbook.com/howto/setup-openvpn-on-ubuntu) from time to time in any updates of password and username, as this is done for avoiding misuse by the maintainers.
 
 Anonsurf
 --
