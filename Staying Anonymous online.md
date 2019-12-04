@@ -47,8 +47,8 @@ Use TOR with proxychains
       4.  **`IMPORTANT`** Before adding proxies to the list , check whether they are running online using proxy checker , just search it.
       5. Once you have added proxies to the list ,save it and exit the editor.
  4. **Using proxychains**:  
- 		  1. To use proxychains with browser , just type `proxychains firefox`  
-    	2.   **`IMPORTANT`** **Make sure you close all the browser windows absolutely before executing above command**. You can also check your IP before and after connecting to prexychains which should be different.  
+ 		   1. To use proxychains with browser , just type `proxychains firefox`  
+    	 2.   **`IMPORTANT`** **Make sure you close all the browser windows absolutely before executing above command**. You can also check your IP before and after connecting to prexychains which should be different.  
     	[BrowserLeaks.com](https://browserleaks.com/ip)  
 
 Use OpenVPN (free)
