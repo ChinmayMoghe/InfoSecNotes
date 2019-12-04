@@ -86,4 +86,4 @@ Your security is your own responsibility.
 
 ---
 Author : Chinmay Moghe
-This file is free for distribution and modification according to their needs.
+This file is free for distribution , modification and personal use.
